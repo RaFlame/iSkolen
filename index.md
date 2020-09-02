@@ -12,7 +12,7 @@ Course materials are written in [Markdown](https://www.markdownguide.org/) and h
 Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
 
 
-Here are some recent courses that have been built with Course in a Box:
+Recent courses that have been built with Course in a Box:
 
 - [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
 - [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
