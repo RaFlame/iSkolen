@@ -13,5 +13,5 @@ Course in a Box consist of
 
 The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
 
-![Image of maze with starting point indicated]({{site.baseurl}}/img/irskolen.jpg)
+![Image of maze with starting point indicated]({{site.baseurl}}/img/community.jpg)
 
